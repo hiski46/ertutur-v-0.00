@@ -88,7 +88,7 @@
                 <div class="col-12 col-md-3">
                     <label id="label-merga-2" for="select-merga-2">Beru :</label>
                 </div>
-                <div class="col col-md-5">
+                <div class="col-12 col-md-5">
                     <select id="select-merga-2" class="form-select" name="sub-merga-1" aria-label="Default select example">
                         <option value='0' selected>Pilih Sub Merga</option>
                         <?php foreach ($limaMerga as $lm) { ?>
@@ -96,7 +96,7 @@
                         <?php } ?>
                     </select>
                 </div>
-                <div class="col col-md-4">
+                <div class="col-12 col-md-4">
                     <select id="all-merga-2" class="form-select" name="merga-2" aria-label="Default select example">
                         <option value='0' selected>Pilih Merga</option>
                     </select>
